@@ -1,0 +1,57 @@
+/* for all */
+body{
+  text-align: center;
+  font-family: 'Montserrat', 'Noto Sans KR', sans-serif;
+}
+
+/* home */
+#home{
+  margin : 30% 20%;
+}	
+#home .front{
+  font-family: 'Montez', cursive;
+  font-size: 4rem;
+
+}
+#home .to_code{
+  font-size: 1rem;
+  margin-top : 3%;
+}
+#home .to_code a{
+  text-decoration: none;
+}
+
+
+
+/* code */
+#code{
+  text-align: center;
+  margin : 30% 15%;
+}
+
+#code .user_code{
+  width : 100%;
+  height : 300px;
+  resize : none;
+}
+
+#code .row{
+  margin-top : 5%;
+}
+
+#code .array_length{
+  width : 80%;
+}
+
+
+/* progress */
+#progress {
+  margin : 30% 15%;
+}
+
+
+/* footer */
+#footer {
+  font-size: 0.7rem;
+  color: grey
+}
